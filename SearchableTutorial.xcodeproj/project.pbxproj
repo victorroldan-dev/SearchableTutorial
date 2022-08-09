@@ -11,6 +11,7 @@
 		8E9AB31C28A1DCCB004D94DE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E9AB31B28A1DCCB004D94DE /* ContentView.swift */; };
 		8E9AB31E28A1DCCF004D94DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E9AB31D28A1DCCF004D94DE /* Assets.xcassets */; };
 		8E9AB32128A1DCCF004D94DE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E9AB32028A1DCCF004D94DE /* Preview Assets.xcassets */; };
+		8E9AB32828A1DF90004D94DE /* Countries.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E9AB32728A1DF90004D94DE /* Countries.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8E9AB31B28A1DCCB004D94DE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8E9AB31D28A1DCCF004D94DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E9AB32028A1DCCF004D94DE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8E9AB32728A1DF90004D94DE /* Countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Countries.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				8E9AB31928A1DCCB004D94DE /* SearchableTutorialApp.swift */,
+				8E9AB32728A1DF90004D94DE /* Countries.json */,
 				8E9AB31B28A1DCCB004D94DE /* ContentView.swift */,
 				8E9AB31D28A1DCCF004D94DE /* Assets.xcassets */,
 				8E9AB31F28A1DCCF004D94DE /* Preview Content */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E9AB32128A1DCCF004D94DE /* Preview Assets.xcassets in Resources */,
+				8E9AB32828A1DF90004D94DE /* Countries.json in Resources */,
 				8E9AB31E28A1DCCF004D94DE /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
